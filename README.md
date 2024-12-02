@@ -11,6 +11,6 @@ La estructura del código es la siguiente:
 
     B. Creación del objeto tienda_1
 
-    C. Comprovación de los atributos.
+    C. Comprobación de los atributos.
 
-    D. Comprovación de los 7 métodos usando el objeto creado.
+    D. Comprobación de los 7 métodos usando el objeto creado.
